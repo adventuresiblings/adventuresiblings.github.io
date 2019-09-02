@@ -19,13 +19,13 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Adventure Siblings
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  "A brother, a sister, and a bunch of adventure games".
+  This is our blog
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -42,15 +42,15 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Bill Niakas
+  email:               info@vasiliosniakas.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             becoming_i
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
+  - title:             Home
+    url:               /
   - title:             Hyde
     url:               /hyde/
   - title:             Documentation
@@ -194,7 +194,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   advertise:           false

@@ -7,6 +7,7 @@ layout: post
 guid: https://adventuresiblings.net/?p=435
 permalink: /2019/05/02/whispers-of-a-machine/
 image: /wp-content/uploads/2019/04/Hh9Atdbc.png
+comments : true
 categories:
   - Review
 tags:
@@ -36,7 +37,7 @@ That is also a very clever way for the game to acquire a high replay value becau
 
 The riddles are mostly inventory based but I came across a very clever riddle at the museum and another one at the EPOS church that revealed the gameplay’s potential to the fullest. It’s not an easy game. Neither a difficult one. It’s a game that requires the player to focus and to think like Vera.
 
-## Graphics {.western}
+## Graphics
 
 The visual part of “Whispers of the Machine” is excellent. Some may say that is pixelated but this is their magic. <span lang="en-US">Finally the AGS engine supports letterbox resolutions so you can enjoy the game without vertical black bars on your monitor. The dismal post-Collapse world is beautiful with lots of detail given the fact that AGS is not a cutting edge graphics engine. I liked the world animations but I would prefer more of them. Also I would want more locations because the plot could support them. The character models are </span><span lang="en-US">designed with all the small details that someone could wait and the signature speaking avatar of the character during a conversation is present.</span>
 
@@ -44,14 +45,13 @@ The visual part of “Whispers of the Machine” is excellent. Some may say that
 
 Overall the graphics wont disappoint but someone could expect more locations and a more vivid world.
 
-## <span lang="en-US">S</span><span lang="en-US">ound </span> {.western}
+## Sound
 
 The sound is very taken care of. The ambient music that serves as a soft silk on our ears while we explore the game world is deliberately a bit sad. The voice overs are top notch and I think that Vera’s performance stands out as one of the best I encountered in an adventure game. Some voices are a little flat but maybe that had to do with the fact that they were actually portraying dull characters. I am very glad that the production values even in indie games are so high.
 
-## Conclusion {.western}
+## Conclusion
 
 <span lang="en-US">Whispers of the Machine is an excellent game. The high replay value, the awesome story, the beautiful voices and of course </span><span lang="en-US">the meticulously drawn world, create a unique adventure experience. The only downside is the small duration and this is because I want to see more of Vera and her adventures and I am sure I am not the only one.</span>
 
-&nbsp;
 
 **4.5/5**

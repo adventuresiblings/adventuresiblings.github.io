@@ -29,8 +29,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  "A brother, a sister, and a bunch of adventure games".
+  This is our blog
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,7 +45,7 @@ author:
   name:                Bill Niakas
   email:               info@vasiliosniakas.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             becoming_i
+  twitter:             becoming_i
 
 # Add links to the sidebar.
 menu:

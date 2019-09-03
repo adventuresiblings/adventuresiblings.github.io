@@ -2,24 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Bill Niakas
+  email:             info@vasiliosniakas.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Hi, I'm Bill and along with my sister Elena, we share our thoughts about point 'n' click adventure games. Enjoy responsibly.-
 
-    Open `_data/authors.yml` to edit this text.
-
-    [Download Free][kit]
-    -- or --
-    [Buy PRO][buy]
-
-    [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.1.1.zip
-    [buy]: https://app.simplegoods.co/i/NATYVLYT
 
   # This photo will be used in the about section
   picture:
@@ -33,8 +23,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    twitter:         becoming_i
+    github:          billniakas
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -54,7 +44,7 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           <number>
+    steam:           bill_niakas
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
@@ -74,17 +64,13 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Elena Niaka
+  email:             elenaniaka@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    I am the youngest sibling and along with my brother, we strive to catalogue our experiences through the wonderful world of point 'n' click adventures.
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  # twitter:           <username>
+  # github:            <username>
   accent_color:      '#268bd2'
   accent_image:
     background:      '#202020'

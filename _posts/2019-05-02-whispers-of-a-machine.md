@@ -9,7 +9,7 @@ permalink: /2019/05/02/whispers-of-a-machine/
 image: /wp-content/uploads/2019/04/Hh9Atdbc.png
 comments : true
 categories:
-  - Review
+  - Reviews
 tags:
   - adventure
   - review

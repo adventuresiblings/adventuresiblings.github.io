@@ -7,6 +7,7 @@ layout: post
 guid: https://adventuresiblings.net/?p=427
 permalink: /2019/04/20/metamorphosis-taking-shape-for-2019-release-on-pc-and-consoles/
 image: /wp-content/uploads/2019/04/metamorphosis.png
+comments : true
 categories:
   - News
 tags:

@@ -45,7 +45,7 @@ author:
   name:                Bill Niakas
   email:               info@vasiliosniakas.com
   # Used by `jekyll-seo-tag`:
-  twitter:             becoming_i
+  twitter:             advsiblings
 
 # Add links to the sidebar.
 menu:
@@ -134,7 +134,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-116838586-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -194,7 +194,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   advertise:           false

@@ -3,7 +3,7 @@ id: 435
 title: Whispers of a Machine
 date: 2019-05-02T23:48:37+03:00
 author: Bill Niakas
-layout: post
+layout: default 
 guid: https://adventuresiblings.net/?p=435
 permalink: /2019/05/02/whispers-of-a-machine/
 image: /wp-content/uploads/2019/04/Hh9Atdbc.png
